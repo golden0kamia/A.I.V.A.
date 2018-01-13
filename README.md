@@ -1,4 +1,4 @@
 # A.I.V.A.
-Vocal assistant based on Jasper
+Assistant vocal basée sur openJarvis
 
-first of all install and configure jasper on your raspberry http://jasperproject.github.io/
+Premièremment installer le programme Jarvis et suivais les instrction via le site https://openjarvis.com/
